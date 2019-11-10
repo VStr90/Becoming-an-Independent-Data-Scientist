@@ -1,1 +1,1 @@
-# Web-Scrapping
+# Becoming-an-Independent-Data-Scientist
